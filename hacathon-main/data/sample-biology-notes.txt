@@ -1,0 +1,46 @@
+CHAPTER 1: REPRODUCTION IN FLOWERING PLANTS
+
+1.1 FLOWER - A FASCINATING ORGAN OF ANGIOSPERMS
+Flowers are objects of aesthetic, ornamental, social, religious and cultural value. They are morphological and embryological marvels and the sites of sexual reproduction.
+
+1.2 PRE-FERTILISATION: STRUCTURES AND EVENTS
+Formation of flower takes place in a plant only once in its life. In the flower, androecium and gynoecium differentiate and develop.
+
+STAMEN, MICROSPORANGIUM AND POLLEN GRAIN
+A stamen consists of two parts - a long and slender stalk called filament, and the terminal generally bilobed structure called anther.
+
+The number and length of stamens are variable in flowers of different species. A typical angiosperm anther is bilobed with each lobe having two theca, i.e., they are dithecous.
+
+The microsporangia develop further and become pollen sacs. They extend longitudinally all through the length of an anther and are packed with pollen grains.
+
+STRUCTURE OF MICROSPORANGIUM
+In a transverse section, a typical microsporangium appears near circular in outline. It is generally surrounded by four wall layers - the epidermis, endothecium, middle layers and the tapetum.
+
+The innermost wall layer is the tapetum. It nourishes the developing pollen grains. Cells of the tapetum possess dense cytoplasm and generally have more than one nucleus.
+
+When the anther is young, a group of compactly arranged homogenous cells called the sporogenous tissue occupies the centre of each microsporangium.
+
+MICROSPOROGENESIS
+As each cell of the sporogenous tissue is a potential pollen mother cell (PMC) or microspore mother cell, each one is capable of giving rise to a microspore tetrad.
+
+The process of formation of microspores from a pollen mother cell (PMC) through meiosis is called microsporogenesis.
+
+POLLEN GRAIN
+The pollen grains represent the male gametophytes. If you touch the opened anthers of Hibiscus or any other flower you would find deposition of yellowish powdery pollen grains on your fingers.
+
+Pollen grains are generally spherical measuring about 25-50 micrometers in diameter. It has a prominent two-layered wall.
+
+The hard outer layer called the exine is made up of sporopollenin which is one of the most resistant organic material known. It can withstand high temperatures and strong acids and alkali. No enzyme that degrades sporopollenin is so far known.
+
+The inner wall of the pollen grain is called the intine. It is a thin and continuous layer made up of cellulose and pectin.
+
+POLLINATION
+Transfer of pollen grains (shed from the anther) to the stigma of a pistil is termed pollination. 
+
+Kinds of Pollination:
+1. Autogamy - pollination is achieved within the same flower
+2. Geitonogamy - transfer of pollen grains from the anther to the stigma of another flower of the same plant
+3. Xenogamy - transfer of pollen grain from anther to the stigma of a different plant
+
+DOUBLE FERTILISATION
+After entering one of the synergids, the pollen tube releases the two male gametes into the cytoplasm of the synergid. One of the male gametes moves towards the egg cell and fuses with its nucleus thus completing the syngamy. This results in the formation of a diploid cell, the zygote. The other male gamete moves towards the two polar nuclei located in the central cell and fuses with them to produce a triploid primary endosperm nucleus (PEN). As this involves the fusion of three haploid nuclei it is termed triple fusion. Since two types of fusions, syngamy and triple fusion take place in an embryo sac the phenomenon is termed double fertilisation, an event unique to angiosperms.

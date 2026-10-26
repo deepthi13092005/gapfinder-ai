@@ -1,0 +1,95 @@
+BIOLOGY SYLLABUS - Grade 12
+Course: Advanced Biology
+Duration: One Year
+Exam Board: CBSE
+
+UNIT 1: REPRODUCTION
+1.1 Sexual Reproduction in Flowering Plants
+    - Flower structure
+    - Development of male and female gametophytes
+    - Pollination - types, agencies and examples
+    - Outbreeding devices
+    - Pollen-pistil interaction
+    - Double fertilization
+    - Post-fertilization events - development of endosperm and embryo, development of seed and fruit
+    - Special modes - apomixis, parthenocarpy, polyembryony
+    - Significance of seed and fruit formation
+
+1.2 Human Reproduction
+    - Male and female reproductive systems
+    - Microscopic anatomy of testis and ovary
+    - Gametogenesis - spermatogenesis and oogenesis
+    - Menstrual cycle
+    - Fertilization, embryo development up to blastocyst formation, implantation
+    - Pregnancy and placenta formation
+    - Parturition and lactation
+
+1.3 Reproductive Health
+    - Need for reproductive health and prevention of sexually transmitted diseases (STDs)
+    - Birth control - need and methods, contraception and medical termination of pregnancy (MTP)
+    - Amniocentesis
+    - Infertility and assisted reproductive technologies - IVF, ZIFT, GIFT
+
+UNIT 2: GENETICS AND EVOLUTION
+2.1 Principles of Inheritance and Variation
+    - Mendel's laws of inheritance
+    - Inheritance of one gene
+    - Deviations from Mendelism - incomplete dominance, co-dominance
+    - Multiple alleles and inheritance of blood groups
+    - Pleiotropy
+    - Polygenic inheritance
+    - Chromosomal theory of inheritance
+    - Linkage and crossing over
+    - Sex determination
+    - Mutation
+    - Genetic disorders
+
+2.2 Molecular Basis of Inheritance
+    - Search for genetic material
+    - DNA structure and replication
+    - Transcription
+    - Genetic code
+    - Translation
+    - Regulation of gene expression
+    - Human Genome Project
+    - DNA fingerprinting
+
+2.3 Evolution
+    - Origin of life
+    - Biological evolution
+    - Darwin's theory of natural selection
+    - Mechanism of evolution
+    - Hardy-Weinberg principle
+    - Origin and evolution of man
+
+UNIT 3: BIOLOGY AND HUMAN WELFARE
+3.1 Human Health and Disease
+    - Pathogens and parasites
+    - Common diseases in humans
+    - Immunity
+    - AIDS
+    - Cancer
+    - Drugs and alcohol abuse
+
+3.2 Microbes in Human Welfare
+    - Microbes in household products
+    - Industrial products
+    - Sewage treatment
+    - Biogas production
+    - Biocontrol agents
+    - Biofertilizers
+
+UNIT 4: BIOTECHNOLOGY AND ITS APPLICATIONS
+4.1 Biotechnology - Principles and Processes
+    - Genetic engineering
+    - Restriction enzymes
+    - Cloning vectors
+    - Competent host
+    - Processes of recombinant DNA technology
+
+4.2 Biotechnology and its Applications
+    - Applications in agriculture
+    - Applications in medicine
+    - Transgenic animals
+    - Ethical issues
+    - Biopiracy and patents

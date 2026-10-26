@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: gapfinder-ai
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NEXT_PUBLIC_APP_NAME
+        value: GapFinder AI
+      - key: NEXT_PUBLIC_DEMO_MODE
+        value: true
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: NEXT_PUBLIC_SUPABASE_URL
+        sync: false
+      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
